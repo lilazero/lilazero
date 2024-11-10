@@ -1,7 +1,8 @@
 ## Hello, Ciao, Hallo 👋
 <div style>
 
-<img src="https://github.com/user-attachments/assets/e64ec22d-7f15-4485-9377-2ffd7f2a6560" alt="lilazero opensauced" width="450" > <a href="https://wakatime.com"><img width="300" src="https://wakatime.com/share/@edb5529f-aad5-445d-b9fd-ed60fc468776/ffaa1cd1-c1b7-47cd-8d20-3e9d90b70700.png" /></a>
+<img src="https://github.com/user-attachments/assets/d5dbba5a-1b06-4e6d-a9d5-787f239c656e" alt="lilazero opensauced" width="450" >
+<a href="https://wakatime.com"><img width="300" src="https://wakatime.com/share/@edb5529f-aad5-445d-b9fd-ed60fc468776/ffaa1cd1-c1b7-47cd-8d20-3e9d90b70700.png" /></a>
 
 
 </div>
